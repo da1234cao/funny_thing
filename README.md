@@ -4,5 +4,5 @@
 
 
 
-[DVWA指北](./DVWA指北/README.md) ：关于DVWA的相关内容。
+[DVWA指北](./DVWA指北/) ：关于DVWA的相关内容。
 
